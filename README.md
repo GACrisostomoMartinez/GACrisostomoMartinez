@@ -12,7 +12,7 @@
 
 - 📫 Cómo contactarme *giampiere.crisostomo@gmail.com*
  
-- 👨‍💻 Mis primeros proyectos los encontraras en: *[https://github.com/GiampiereCrisostomo/Netbeans-IDE-8.2-Java](Netbeans-IDE-8.2-Java)*
+- 👨‍💻 Mis primeros proyectos los encontraras en: *[[https://github.com/GiampiereCrisostomo/Netbeans-IDE-8.2-Java](https://github.com/GiampiereCrisostomo/NetBeans8.2-Java)]*
 
 - ⚡ **Dato curioso** *"Si puedes imaginarlo, puedes programarlo"*
 
