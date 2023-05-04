@@ -1,7 +1,7 @@
 <font face="Courier New">
 <h1 align="center">Hola 👋, soy Giampiere Crisóstomo</h1>
 
-<h3 align="center"> Estudiante de Ingenieria de Computación y Sistemas - V Ciclo
+<h3 align="center"> Estudiante de Ingenieria de Computación y Sistemas - V Ciclo 
 
 <font color="redlue"> <font size=3> <h5 align="center">Soy un joven programador de Perú </h5></font>
 
