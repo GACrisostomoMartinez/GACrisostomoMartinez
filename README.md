@@ -18,15 +18,15 @@
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
-<a href="https://fb .com/alxxmc" target="blank"><img align="center" src="https://github.com/GiampiereCrisostomo/GiampiereCrisostomo/blob/main/face.png?raw=true" alt="alxxmc" height="40" width="40" /></a>
-<a href="https://instagram.com/@giampierecrisostomo" target="blank"><img align="center" src="https://github.com/GiampiereCrisostomo/GiampiereCrisostomo/blob/main/insta.png?raw=true" alt="@giampierecrisostomo" height= "30"ancho="40" /></a>
-<a href="https://www.youtube.com/c/stile mc" target="blank"><img align="center" src="https://github.com/GiampiereCrisostomo/GiampiereCrisostomo/blob/main/yutu.png?raw=true" alt="stile mc" height=40" width="40" /></a> </p> <h3
+<a href="https://www.facebook.com/alxxmc" target="blank"><img align="center" src="https://github.com/GiampiereCrisostomo/GiampiereCrisostomo/blob/main/face.png?raw=true" alt="alxxmc" height="40" width="40" /></a>
+<a href="https://www.instagram.com/giampierecrisostomo/" target="blank"><img align="center" src="https://github.com/GiampiereCrisostomo/GiampiereCrisostomo/blob/main/insta.png?raw=true" alt="@giampierecrisostomo" height= "30"ancho="40" /></a>
+<a href="https://www.youtube.com/@aale_xm" target="blank"><img align="center" src="https://github.com/GiampiereCrisostomo/GiampiereCrisostomo/blob/main/yutu.png?raw=true" alt="stile mc" height=40" width="40" /></a> </p> <h3
 align
 
 Idiomas y Herramientas:</h3>
 
 <p align="left">  
-</a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+</a> <a href="https://www.java.com/" target="_blank" rel="noreferrer"> 
 <img src="https://github.com/GiampiereCrisostomo/GiampiereCrisostomo/blob/main/java.png?raw=true" alt="Java" ancho="40" altura="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/GiampiereCrisostomo/GiampiereCrisostomo/blob/main/mysql.png?raw=true" width="40" height="40"/> </a> 
 
 
