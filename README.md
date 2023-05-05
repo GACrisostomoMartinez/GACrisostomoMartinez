@@ -24,20 +24,23 @@
 <hr>
 
 
-<h3 align="left">Connect with me:
+<h3 align="left">
+Connect with me:
 
 <p align="left">
 <a href="https://www.facebook.com/alxxmc" target="blank"><img align="center" src="https://github.com/GiampiereCrisostomo/GiampiereCrisostomo/blob/main/face.png?raw=true" alt="alxxmc" height="40" width="40" /></a>
-<a href="https://www.instagram.com/giampierecrisostomo/" target="blank"><img align="center" src="https://github.com/GiampiereCrisostomo/GiampiereCrisostomo/blob/main/insta.png?raw=true" alt="@giampierecrisostomo" height= "30"ancho="40" /></a>
-<a href="https://www.youtube.com/@aale_xm" target="blank"><img align="center" src="https://github.com/GiampiereCrisostomo/GiampiereCrisostomo/blob/main/yutu.png?raw=true" alt="stile mc" height=40" width="40" /></a> </p> </3>
+<a href="https://www.instagram.com/giampierecrisostomo/" target="blank"><img align="center" src="https://github.com/GiampiereCrisostomo/GiampiereCrisostomo/blob/main/insta.png?raw=true" alt="@giampierecrisostomo" height= "30"ancho="40"/> </a>
+<a href="https://www.youtube.com/@aale_xm" target="blank"><img align="center" src="https://github.com/GiampiereCrisostomo/GiampiereCrisostomo/blob/main/yutu.png?raw=true" alt="stile mc" height=40" width="40" /></a> </p> 
+</3>
 
 <p align="left">  
 Tools :
 
 <p align="left">
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-</a> <a href="https://www.java.com/" target="_blank" rel="noreferrer"> 
-<img src="https://github.com/GiampiereCrisostomo/GiampiereCrisostomo/blob/main/java.png?raw=true" alt="Java" ancho="40" altura="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/GiampiereCrisostomo/GiampiereCrisostomo/blob/main/mysql.png?raw=true" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/GiampiereCrisostomo/GiampiereCrisostomo/blob/main/java.png?raw=true" alt="Java" ancho="40" altura="40"/> </a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/GiampiereCrisostomo/GiampiereCrisostomo/blob/main/mysql.png?raw=true" width="40" height="40"/> </a> 
 
-</div>
+
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=giampierecrisostomo&show_icons=true&locale=en" alt="giampierecrisostomo" /></p>
