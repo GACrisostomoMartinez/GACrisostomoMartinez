@@ -28,7 +28,6 @@
 <a href="https://www.instagram.com/giampierecrisostomo/" target="blank"><img align="center" src="https://github.com/GiampiereCrisostomo/GiampiereCrisostomo/blob/main/insta.png?raw=true" alt="@giampierecrisostomo" height= "30"ancho="40" /></a>
 <a href="https://www.youtube.com/@aale_xm" target="blank"><img align="center" src="https://github.com/GiampiereCrisostomo/GiampiereCrisostomo/blob/main/yutu.png?raw=true" alt="stile mc" height=40" width="40" /></a> </p> </3>
 
-<hr>
 <p align="Center">  
 Tools :
 
