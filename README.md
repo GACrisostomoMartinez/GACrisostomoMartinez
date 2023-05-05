@@ -1,17 +1,15 @@
 <font face="Courier New">
 <h1 align="left">Hello!👋  I'm Giampiere Crisóstomo</h1>
 
-<h2 align="">Student of Computer and Systems Engineering - Fifth Cycle 
-
+<h2 align="">Student of Computer and Systems Engineering
 <font size=3> <h5 align="left">
 
 <p align=" izquierda"> <img src="https://komarev.com/ghpvc/?username=giampierecrisostomo&label=Profile%20views&color=0e75b6&style=flat" alt="giampierecrisostomo" /> </p>
 
 <h3 align="left"> About me:</h3>
 
-- I am a young programmer from Peru
-- I am 20 years old and I am from Chincha, Perú.
-- I am a developer in process.
+- I am a young programmer from Peru.
+- I am 20 years old.
 - I am a self-taught and highly creative person who seeks to learn and improve every day.
 - I am in the process of working with the front end because I want to offer the best visual experience to the user.
 
