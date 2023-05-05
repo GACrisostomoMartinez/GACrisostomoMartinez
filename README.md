@@ -3,9 +3,10 @@
 
 <h2 align="">Student of Computer and Systems Engineering - Fifth Cycle 
 
+<font size=3> <h5 align="left">
+
 <p align=" izquierda"> <img src="https://komarev.com/ghpvc/?username=giampierecrisostomo&label=Profile%20views&color=0e75b6&style=flat" alt="giampierecrisostomo" /> </p>
 
-<font size=3> <h5 align="left"> 
 <h3 align="left"> About me:</h3>
 
 - I am a young programmer from Peru
