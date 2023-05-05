@@ -25,6 +25,7 @@
 
 
 <h3 align="left">Connect with me:
+
 <p align="left">
 <a href="https://www.facebook.com/alxxmc" target="blank"><img align="center" src="https://github.com/GiampiereCrisostomo/GiampiereCrisostomo/blob/main/face.png?raw=true" alt="alxxmc" height="40" width="40" /></a>
 <a href="https://www.instagram.com/giampierecrisostomo/" target="blank"><img align="center" src="https://github.com/GiampiereCrisostomo/GiampiereCrisostomo/blob/main/insta.png?raw=true" alt="@giampierecrisostomo" height= "30"ancho="40" /></a>
