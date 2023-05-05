@@ -2,23 +2,25 @@
 <h1 align="left">Hello!👋  I'm Giampiere Crisóstomo</h1>
 
 <h2 align="">Student of Computer and Systems Engineering - Fifth Cycle 
-<font size=3> <h5 align="">I am a young programmer from Peru</h5> </font>
-</h2>
 
 <p align=" izquierda"> <img src="https://komarev.com/ghpvc/?username=giampierecrisostomo&label=Profile%20views&color=0e75b6&style=flat" alt="giampierecrisostomo" /> </p>
 
-<font color="black"> <font size=3> <h5 align="left"> 
-<hr>
+<font size=3> <h5 align="left"> 
 <h3 align="left"> About me:</h3>
 
+- I am a young programmer from Peru
 - I am 20 years old and I am from Chincha, Perú.
 - I am a developer in process.
 - I am a self-taught and highly creative person who seeks to learn and improve every day.
 - I am in the process of working with the front end because I want to offer the best visual experience to the user.
+
 <hr>
+<font size=3> <h5 align="left"> 
+
 - 👨‍💻 You can find my first projects in: *[[https://github.com/GiampiereCrisostomo/Netbeans-IDE-8.2-Java](https://github.com/GiampiereCrisostomo/NetBeans8.2-Java)]*
 
 - ⚡ **Fun fact**: *"If you can imagine it, you can program it "*.
+
 </h5>
 <hr>
 <h3 align="left">Connect with me:</h3>
